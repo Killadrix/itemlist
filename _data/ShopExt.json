@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -36,7 +36,18 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "charismatic",
+        "verycharismatic",
+        "generous",
+        "overlygenerous",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "philanthropist",
+        "healinghands",
+        "animalfriend",
+        "lifegiver",
+        "spiritualhealer"
       ],
       "bypassLimit": false,
       "data": {
@@ -46,7 +57,18 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "charismatic",
+          "verycharismatic",
+          "generous",
+          "overlygenerous",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "philanthropist",
+          "healinghands",
+          "animalfriend",
+          "lifegiver",
+          "spiritualhealer"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -56,8 +78,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -67,7 +89,9 @@
       ],
       "conflicts": [
         "abrasive",
-        "psychopath"
+        "psychopath",
+        "intimidating",
+        "veryintimidating"
       ],
       "bypassLimit": false,
       "data": {
@@ -78,7 +102,9 @@
         "karmaTypeForAdding": null,
         "conflicts": [
           "abrasive",
-          "psychopath"
+          "psychopath",
+          "intimidating",
+          "veryintimidating"
         ],
         "stats": [
           "x200% global certainty loss factor"
@@ -88,8 +114,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -99,7 +125,8 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [
-
+        "philanthropist",
+        "animalfriend"
       ],
       "bypassLimit": false,
       "data": {
@@ -109,7 +136,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "philanthropist",
+          "animalfriend"
         ],
         "stats": [
           "Morbid meditation focus type allowed.",
@@ -120,8 +148,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -148,10 +176,10 @@
       },
       "defName": "Cannibal",
       "name": "cannibal",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -160,7 +188,20 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [
-
+        "kind",
+        "charismatic",
+        "verycharismatic",
+        "bargainer",
+        "hardbargainer",
+        "perceptive",
+        "veryperceptive",
+        "generous",
+        "overlygenerous",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "philanthropist",
+        "spiritualhealer"
       ],
       "bypassLimit": false,
       "data": {
@@ -170,7 +211,20 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "kind",
+          "charismatic",
+          "verycharismatic",
+          "bargainer",
+          "hardbargainer",
+          "perceptive",
+          "veryperceptive",
+          "generous",
+          "overlygenerous",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "philanthropist",
+          "spiritualhealer"
         ],
         "stats": [
           "x50% global certainty loss factor"
@@ -178,10 +232,10 @@
       },
       "defName": "Abrasive",
       "name": "abrasive",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -220,10 +274,10 @@
       },
       "defName": "TooSmart",
       "name": "toosmart",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -232,12 +286,15 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance"
+        "+4.00 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
         "trigger-happy",
-        "wimp"
+        "wimp",
+        "gunnut",
+        "bandolier",
+        "ironfist"
       ],
       "bypassLimit": false,
       "data": {
@@ -249,21 +306,24 @@
         "conflicts": [
           "carefulshooter",
           "trigger-happy",
-          "wimp"
+          "wimp",
+          "gunnut",
+          "bandolier",
+          "ironfist"
         ],
         "stats": [
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance"
+          "+4.00 melee hit chance"
         ]
       },
       "defName": "Brawler",
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -290,10 +350,10 @@
       },
       "defName": "Masochist",
       "name": "masochist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -322,8 +382,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -333,7 +393,11 @@
       ],
       "conflicts": [
         "ascetic",
-        "jealous"
+        "jealous",
+        "generous",
+        "overlygenerous",
+        "naturalleader",
+        "philanthropist"
       ],
       "bypassLimit": false,
       "data": {
@@ -344,7 +408,11 @@
         "karmaTypeForAdding": null,
         "conflicts": [
           "ascetic",
-          "jealous"
+          "jealous",
+          "generous",
+          "overlygenerous",
+          "naturalleader",
+          "philanthropist"
         ],
         "stats": [
 
@@ -354,8 +422,8 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -365,7 +433,12 @@
       ],
       "conflicts": [
         "ascetic",
-        "greedy"
+        "greedy",
+        "generous",
+        "overlygenerous",
+        "naturalleader",
+        "philanthropist",
+        "magnetic"
       ],
       "bypassLimit": false,
       "data": {
@@ -376,7 +449,12 @@
         "karmaTypeForAdding": null,
         "conflicts": [
           "ascetic",
-          "greedy"
+          "greedy",
+          "generous",
+          "overlygenerous",
+          "naturalleader",
+          "philanthropist",
+          "magnetic"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -384,10 +462,10 @@
       },
       "defName": "Jealous",
       "name": "jealous",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -422,10 +500,10 @@
       },
       "defName": "Ascetic",
       "name": "ascetic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -436,9 +514,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -454,8 +532,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -484,8 +562,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -496,9 +574,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -514,8 +592,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -524,7 +602,15 @@
 
       ],
       "conflicts": [
-
+        "charismatic",
+        "verycharismatic",
+        "bargainer",
+        "hardbargainer",
+        "naturalleader",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "magnetic"
       ],
       "bypassLimit": false,
       "data": {
@@ -534,7 +620,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "charismatic",
+          "verycharismatic",
+          "bargainer",
+          "hardbargainer",
+          "naturalleader",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "magnetic"
         ],
         "stats": [
 
@@ -542,10 +636,10 @@
       },
       "defName": "AnnoyingVoice",
       "name": "annoyingvoice",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -554,7 +648,11 @@
 
       ],
       "conflicts": [
-
+        "naturalleader",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "magnetic"
       ],
       "bypassLimit": false,
       "data": {
@@ -564,7 +662,11 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "naturalleader",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "magnetic"
         ],
         "stats": [
 
@@ -572,10 +674,10 @@
       },
       "defName": "CreepyBreathing",
       "name": "creepybreathing",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -604,10 +706,10 @@
       },
       "defName": "Pyromaniac",
       "name": "pyromaniac",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -618,7 +720,21 @@
       ],
       "conflicts": [
         "brawler",
-        "masochist"
+        "masochist",
+        "strongback",
+        "verystrongback",
+        "gunnut",
+        "rooted",
+        "intimidating",
+        "veryintimidating",
+        "agile",
+        "ninja",
+        "enduring",
+        "veryenduring",
+        "wreckingball",
+        "ironstomach",
+        "tenderizer",
+        "ironfist"
       ],
       "bypassLimit": false,
       "data": {
@@ -629,7 +745,21 @@
         "karmaTypeForAdding": null,
         "conflicts": [
           "brawler",
-          "masochist"
+          "masochist",
+          "strongback",
+          "verystrongback",
+          "gunnut",
+          "rooted",
+          "intimidating",
+          "veryintimidating",
+          "agile",
+          "ninja",
+          "enduring",
+          "veryenduring",
+          "wreckingball",
+          "ironstomach",
+          "tenderizer",
+          "ironfist"
         ],
         "stats": [
           "-60% pain shock threshold",
@@ -638,42 +768,10 @@
       },
       "defName": "Wimp",
       "name": "wimp",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
-      "stats": [
-        "+15.0 melee dodge chance",
-        "x10% trap spring chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+15.0 melee dodge chance",
-          "x10% trap spring chance"
-        ]
-      },
-      "defName": "Nimble",
-      "name": "nimble",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -682,7 +780,9 @@
         "+75% global learning factor"
       ],
       "conflicts": [
-
+        "idiotsavant",
+        "stupid",
+        "oblivious"
       ],
       "bypassLimit": false,
       "data": {
@@ -692,7 +792,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "idiotsavant",
+          "stupid",
+          "oblivious"
         ],
         "stats": [
           "+75% global learning factor"
@@ -702,8 +804,8 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -732,10 +834,10 @@
       },
       "defName": "SlowLearner",
       "name": "slowlearner",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -762,10 +864,10 @@
       },
       "defName": "Undergrounder",
       "name": "undergrounder",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -794,8 +896,8 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -822,10 +924,10 @@
       },
       "defName": "BodyPurist",
       "name": "bodypurist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -852,10 +954,10 @@
       },
       "defName": "DislikesMen",
       "name": "misandrist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -882,10 +984,10 @@
       },
       "defName": "DislikesWomen",
       "name": "misogynist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -914,8 +1016,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -944,8 +1046,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -972,10 +1074,10 @@
       },
       "defName": "TorturedArtist",
       "name": "torturedartist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1006,8 +1108,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1036,8 +1138,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1047,7 +1149,12 @@
         "-0.20 move speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "rooted"
       ],
       "bypassLimit": false,
       "data": {
@@ -1057,7 +1164,12 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "rooted"
         ],
         "stats": [
           "Go frenzy inspiration disabled.",
@@ -1066,10 +1178,10 @@
       },
       "defName": "SpeedOffset",
       "name": "slowpoke",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1078,7 +1190,12 @@
         "+0.20 move speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "rooted"
       ],
       "bypassLimit": false,
       "data": {
@@ -1088,7 +1205,12 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "rooted"
         ],
         "stats": [
           "+0.20 move speed"
@@ -1098,8 +1220,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1108,7 +1230,12 @@
         "+0.40 move speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "rooted"
       ],
       "bypassLimit": false,
       "data": {
@@ -1118,7 +1245,12 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "rooted"
         ],
         "stats": [
           "+0.40 move speed"
@@ -1128,8 +1260,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1156,10 +1288,10 @@
       },
       "defName": "DrugDesire",
       "name": "chemicalfascination",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1186,10 +1318,10 @@
       },
       "defName": "DrugDesire",
       "name": "chemicalinterest",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1220,8 +1352,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1250,8 +1382,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1280,8 +1412,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1308,10 +1440,10 @@
       },
       "defName": "NaturalMood",
       "name": "pessimist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1338,10 +1470,10 @@
       },
       "defName": "NaturalMood",
       "name": "depressive",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1351,7 +1483,9 @@
         "x25% global certainty loss factor"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1361,7 +1495,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "-18% mental break threshold",
@@ -1372,8 +1508,8 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1383,7 +1519,9 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1393,7 +1531,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "-9% mental break threshold",
@@ -1404,8 +1544,8 @@
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1415,7 +1555,9 @@
         "x200% global certainty loss factor"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1425,7 +1567,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "+8% mental break threshold",
@@ -1434,10 +1578,10 @@
       },
       "defName": "Nerves",
       "name": "nervous",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1447,7 +1591,9 @@
         "x300% global certainty loss factor"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1457,7 +1603,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "+15% mental break threshold",
@@ -1466,10 +1614,10 @@
       },
       "defName": "Nerves",
       "name": "volatile",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1498,10 +1646,10 @@
       },
       "defName": "Neurotic",
       "name": "neurotic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1530,10 +1678,10 @@
       },
       "defName": "Neurotic",
       "name": "veryneurotic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1542,7 +1690,13 @@
         "+35% global work speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "dodgy",
+        "evasive"
       ],
       "bypassLimit": false,
       "data": {
@@ -1552,7 +1706,13 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "dodgy",
+          "evasive"
         ],
         "stats": [
           "+35% global work speed"
@@ -1562,8 +1722,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1572,7 +1732,13 @@
         "+20% global work speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "dodgy",
+        "evasive"
       ],
       "bypassLimit": false,
       "data": {
@@ -1582,7 +1748,13 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "dodgy",
+          "evasive"
         ],
         "stats": [
           "+20% global work speed"
@@ -1592,8 +1764,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1602,7 +1774,13 @@
         "-20% global work speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "dodgy",
+        "evasive"
       ],
       "bypassLimit": false,
       "data": {
@@ -1612,7 +1790,13 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "dodgy",
+          "evasive"
         ],
         "stats": [
           "-20% global work speed"
@@ -1622,8 +1806,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1632,7 +1816,13 @@
         "-35% global work speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "dodgy",
+        "evasive"
       ],
       "bypassLimit": false,
       "data": {
@@ -1642,7 +1832,13 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "dodgy",
+          "evasive"
         ],
         "stats": [
           "-35% global work speed"
@@ -1650,10 +1846,10 @@
       },
       "defName": "Industriousness",
       "name": "slothful",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1682,8 +1878,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1712,8 +1908,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1742,8 +1938,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1772,8 +1968,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1804,8 +2000,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1836,8 +2032,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1866,8 +2062,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1894,10 +2090,10 @@
       },
       "defName": "Beauty",
       "name": "pretty",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1924,10 +2120,10 @@
       },
       "defName": "Beauty",
       "name": "ugly",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1954,10 +2150,10 @@
       },
       "defName": "Beauty",
       "name": "staggeringlyugly",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1986,8 +2182,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -2014,11 +2210,163 @@
       },
       "defName": "Immunity",
       "name": "sickly",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "stats": [
+        "+15% melee avoid chance",
+        "x10% trap spring chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Close Quarters Combat Brutality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15% melee avoid chance",
+          "x10% trap spring chance"
+        ]
+      },
+      "defName": "Nimble",
+      "name": "nimble",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "This is a machine.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "PLA Steel Torrent",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PLA_TraitWarMachine",
+      "name": "warmachine",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0
     }
   ],
   "races": [
@@ -2029,12 +2377,12 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "RimWorld",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
