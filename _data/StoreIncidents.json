@@ -11,24 +11,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "foggyrain",
-		"price": 300,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "resourcepodcrash",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
@@ -46,23 +31,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "levelskill",
-		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -81,33 +51,13 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "randominspire",
 		"price": 450,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -131,13 +81,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -186,5 +131,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 37
+	"total": 26
 }
