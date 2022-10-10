@@ -164,43 +164,43 @@
 	},
 	{
 		"abr": "prostheticleg",
-		"price": 433,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
 		"abr": "prostheticarm",
-		"price": 433,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "prostheticheart",
-		"price": 383,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 367,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "CochlearImplant"
 	},
 	{
 		"abr": "powerclaw",
-		"price": 642,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "joywire",
-		"price": 367,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Joywire"
 	},
 	{
 		"abr": "painstopper",
-		"price": 367,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
@@ -1059,7 +1059,7 @@
 	{
 		"abr": "kibble",
 		"price": 2,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Kibble"
 	},
 	{
@@ -1071,13 +1071,13 @@
 	{
 		"abr": "chocolate",
 		"price": 5,
-		"category": "Foods",
+		"category": "Sweets",
 		"defname": "Chocolate"
 	},
 	{
 		"abr": "milk",
 		"price": 3,
-		"category": "Animal products",
+		"category": "Ingredients",
 		"defname": "Milk"
 	},
 	{
@@ -1233,7 +1233,7 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawAgave"
 	},
 	{
@@ -1245,13 +1245,13 @@
 	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawBerries"
 	},
 	{
 		"abr": "hay",
 		"price": 1,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Hay"
 	},
 	{
@@ -1856,7 +1856,7 @@
 	},
 	{
 		"abr": "minigun",
-		"price": 1933,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
@@ -1874,7 +1874,7 @@
 	},
 	{
 		"abr": "fraggrenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
 	},
@@ -1886,7 +1886,7 @@
 	},
 	{
 		"abr": "empgrenades",
-		"price": 525,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
@@ -1916,13 +1916,13 @@
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
@@ -2432,49 +2432,49 @@
 	},
 	{
 		"abr": "mindscrew",
-		"price": 350,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Mindscrew"
 	},
 	{
 		"abr": "drillarm",
-		"price": 708,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "DrillArm"
 	},
 	{
 		"abr": "fieldhand",
-		"price": 708,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "FieldHand"
 	},
 	{
 		"abr": "handtalon",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "HandTalon"
 	},
 	{
 		"abr": "elbowblade",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "ElbowBlade"
 	},
 	{
 		"abr": "kneespike",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "KneeSpike"
 	},
 	{
 		"abr": "venomfangs",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "VenomFangs"
 	},
 	{
 		"abr": "venomtalon",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "VenomTalon"
 	},
@@ -3224,7 +3224,7 @@
 	},
 	{
 		"abr": "neuralsupercharger",
-		"price": 408,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NeuralSupercharger"
 	},
@@ -5990,7 +5990,7 @@
 	},
 	{
 		"abr": "mortargrenades",
-		"price": 17,
+		"price": -10,
 		"category": "Ammunition",
 		"defname": "Shell_MortarTR"
 	},
@@ -6074,7 +6074,7 @@
 	},
 	{
 		"abr": "heavyflamer",
-		"price": 750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HeavyFlamer"
 	},
@@ -6122,13 +6122,13 @@
 	},
 	{
 		"abr": "mechvirusgashandheldmortar",
-		"price": 1183,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MV_HandheldMortar"
 	},
 	{
 		"abr": "antibuggashandheldmortar",
-		"price": 1183,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "AB_HandheldMortar"
 	},
@@ -6788,19 +6788,19 @@
 	},
 	{
 		"abr": "chargecomplex",
-		"price": 1692,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFES_Turret_ChargeComplex"
 	},
 	{
 		"abr": "chargeturret",
-		"price": 1358,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
 	},
 	{
 		"abr": "chargerailgun",
-		"price": 4658,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFES_Turret_ChargeRailgunTurret"
 	},
@@ -10862,121 +10862,121 @@
 	},
 	{
 		"abr": "britishno.36mmkimillsbombgrenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2BritishServiceGrenades"
 	},
 	{
 		"abr": "britishno.73anti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2BritishServiceAntiTankGrenades"
 	},
 	{
 		"abr": "britishno.74stickybombanti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2BritishServiceAntiTankGrenadesB"
 	},
 	{
 		"abr": "finnishm32mortarshellgrenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2FinnishServiceGrenades"
 	},
 	{
 		"abr": "frenchf1grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2FrenchServiceGrenades"
 	},
 	{
 		"abr": "germanm24stielhandgranategrenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2GermanServiceGrenades"
 	},
 	{
 		"abr": "germanm39grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2GermanServiceGrenadesB"
 	},
 	{
 		"abr": "germanm24stielhandgranatebundleanti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2GermanServiceAntiTankGrenades"
 	},
 	{
 		"abr": "italiansrcmmod.35grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2ItalianServiceGrenades"
 	},
 	{
 		"abr": "italianotomod.35grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2ItalianServiceGrenadesB"
 	},
 	{
 		"abr": "italianbredamod.35grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2ItalianServiceGrenadesC"
 	},
 	{
 		"abr": "italiantypelanti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2ItalianServiceAntiTankGrenades"
 	},
 	{
 		"abr": "japanesetype97grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2JapaneseServiceGrenades"
 	},
 	{
 		"abr": "russianf1grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2RussianServiceGrenades"
 	},
 	{
 		"abr": "russianrg-42grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2RussianServiceGrenadesB"
 	},
 	{
 		"abr": "russianrgd-33grenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2RussianServiceGrenadesC"
 	},
 	{
 		"abr": "russianrpg-40anti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2RussianServiceAntiTankGrenades"
 	},
 	{
 		"abr": "russianrpg-43anti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2RussianServiceAntiTankGrenadesB"
 	},
 	{
 		"abr": "russianrpg-6anti-tankgrenades",
-		"price": 533,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2RussianServiceAntiTankGrenadesC"
 	},
 	{
 		"abr": "americanmkiigrenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "K4G_Weapon_WW2AmericanServiceGrenades"
 	},
@@ -11360,7 +11360,7 @@
 	},
 	{
 		"abr": "vehiclemodificationkit-type-04grenadelauncher",
-		"price": 1367,
+		"price": -10,
 		"category": "Vehicle modification kit",
 		"defname": "PLA_VehicleWeapon04GL"
 	},
@@ -12180,6 +12180,750 @@
 		"category": "Body parts",
 		"defname": "MutatedNeck"
 	},
+	{
+		"abr": "antennatower",
+		"price": 875,
+		"category": "Misc",
+		"defname": "FT_AntennaTower"
+	},
+	{
+		"abr": "antiairgun",
+		"price": 3392,
+		"category": "Security",
+		"defname": "FT_TurretAA"
+	},
+	{
+		"abr": "antitankgun",
+		"price": 3617,
+		"category": "Security",
+		"defname": "FT_TurretAT"
+	},
+	{
+		"abr": "autocannon",
+		"price": 667,
+		"category": "Security",
+		"defname": "FT_AutoCannon"
+	},
+	{
+		"abr": "chemistrytable",
+		"price": 1767,
+		"category": "Production",
+		"defname": "FT_TableChemistry"
+	},
+	{
+		"abr": "concretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_Barrier"
+	},
+	{
+		"abr": "concreteblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_BlocksConcrete"
+	},
+	{
+		"abr": "concretemixer",
+		"price": 600,
+		"category": "Production",
+		"defname": "FT_TableConcrete"
+	},
+	{
+		"abr": "diagonalconcretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_BarrierDiagonal"
+	},
+	{
+		"abr": "dye",
+		"price": 13,
+		"category": "Plant matter",
+		"defname": "Dye"
+	},
+	{
+		"abr": "e.n.i.a.c.",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "FT_ENIAC"
+	},
+	{
+		"abr": "fiberconcreteplank",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_WoodConcrete"
+	},
+	{
+		"abr": "fieldcannon",
+		"price": 5042,
+		"category": "Security",
+		"defname": "FT_TurretEmpero"
+	},
+	{
+		"abr": "fortifiedartillery",
+		"price": 1167,
+		"category": "Security",
+		"defname": "FT_VFES_Turret_Artillery"
+	},
+	{
+		"abr": "fortifiedplatform",
+		"price": 51,
+		"category": "Misc",
+		"defname": "FT_Platform"
+	},
+	{
+		"abr": "fortifiedtrench",
+		"price": 51,
+		"category": "Misc",
+		"defname": "FT_Trench"
+	},
+	{
+		"abr": "hexagonalmortarlauncher",
+		"price": 7633,
+		"category": "Security",
+		"defname": "FT_TurretHexMortar"
+	},
+	{
+		"abr": "howitzer",
+		"price": 3767,
+		"category": "Security",
+		"defname": "FT_TurretPrince"
+	},
+	{
+		"abr": "infantrymortar",
+		"price": 1175,
+		"category": "Security",
+		"defname": "FT_Turret_Mortar"
+	},
+	{
+		"abr": "lathe",
+		"price": 933,
+		"category": "Production",
+		"defname": "FT_TableLathe"
+	},
+	{
+		"abr": "machinegunbunker",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "FT_Turret_BunkerM"
+	},
+	{
+		"abr": "machinegunbunker",
+		"price": 1150,
+		"category": "Misc",
+		"defname": "FT_Turret_BunkerC"
+	},
+	{
+		"abr": "machinegunnest",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "FT_Turret_Bunker"
+	},
+	{
+		"abr": "medicalanimalbed",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "SUN_MedicalAnimalBed"
+	},
+	{
+		"abr": "militarymachinegunnest",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "FT_Turret_BunkerF"
+	},
+	{
+		"abr": "militarysandbag",
+		"price": 25,
+		"category": "Misc",
+		"defname": "FT_Sandbag"
+	},
+	{
+		"abr": "militarysandbagwall",
+		"price": 36,
+		"category": "Misc",
+		"defname": "FT_WallSandbag"
+	},
+	{
+		"abr": "mobilechemfuelgenerator",
+		"price": 492,
+		"category": "Security",
+		"defname": "FT_FuelGenerator"
+	},
+	{
+		"abr": "packedconcrete",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "FT_ConcreteCompressed"
+	},
+	{
+		"abr": "quadmachinegun",
+		"price": 700,
+		"category": "Security",
+		"defname": "FT_Maxim4M"
+	},
+	{
+		"abr": "radioterminal",
+		"price": 278,
+		"category": "Security",
+		"defname": "FT_Radio"
+	},
+	{
+		"abr": "recoillessgun",
+		"price": 1758,
+		"category": "Security",
+		"defname": "FT_RecoillessGun"
+	},
+	{
+		"abr": "reinforcedconcrete",
+		"price": 1,
+		"category": "Stone blocks",
+		"defname": "FT_ReinforcedConcreteBag"
+	},
+	{
+		"abr": "tanktrap",
+		"price": 9,
+		"category": "Misc",
+		"defname": "FT_TankTrap"
+	},
+	{
+		"abr": "tetrapods",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_Tetrapods"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawapple"
+	},
+	{
+		"abr": "bakedpolenta",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "bakedpolenta"
+	},
+	{
+		"abr": "bamboo",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Bamboo"
+	},
+	{
+		"abr": "bamboobonsaipot",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PlantPot_BambooBonsai"
+	},
+	{
+		"abr": "bamboocampfire",
+		"price": 45,
+		"category": "Misc",
+		"defname": "VG_Campfire"
+	},
+	{
+		"abr": "bambootorchlamp",
+		"price": 44,
+		"category": "Misc",
+		"defname": "VG_TorchLamp"
+	},
+	{
+		"abr": "banana",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawbanana"
+	},
+	{
+		"abr": "barley",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawBarley"
+	},
+	{
+		"abr": "barleytea",
+		"price": 13,
+		"category": "Garden Drinks",
+		"defname": "VG_BarleyTea"
+	},
+	{
+		"abr": "bean",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawbean"
+	},
+	{
+		"abr": "biofuel",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "VG_Biofuel"
+	},
+	{
+		"abr": "blueberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawblueberry"
+	},
+	{
+		"abr": "bowlofstew",
+		"price": 42,
+		"category": "Meals",
+		"defname": "bowlstew"
+	},
+	{
+		"abr": "bread",
+		"price": 25,
+		"category": "Simple Meals",
+		"defname": "Bread"
+	},
+	{
+		"abr": "cactusfruit",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawCactusFruit"
+	},
+	{
+		"abr": "caramel",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Caramel"
+	},
+	{
+		"abr": "cheese",
+		"price": 25,
+		"category": "Ingredients",
+		"defname": "cheese"
+	},
+	{
+		"abr": "cheeseburger",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "grilledmeat"
+	},
+	{
+		"abr": "cherries",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCherry"
+	},
+	{
+		"abr": "chocolatemilk",
+		"price": 25,
+		"category": "Garden Drinks",
+		"defname": "Chocomilk"
+	},
+	{
+		"abr": "cloudberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawcloudberry"
+	},
+	{
+		"abr": "coconut",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCoconut"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 7,
+		"category": "Plant matter",
+		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "cookie",
+		"price": 33,
+		"category": "Lavish Meals",
+		"defname": "cookie"
+	},
+	{
+		"abr": "cookingtools",
+		"price": 800,
+		"category": "Production",
+		"defname": "CookingTools"
+	},
+	{
+		"abr": "cornbread",
+		"price": 25,
+		"category": "Simple Meals",
+		"defname": "Cornbread"
+	},
+	{
+		"abr": "cornmeal",
+		"price": 5,
+		"category": "Ingredients",
+		"defname": "Cornmeal"
+	},
+	{
+		"abr": "date",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawdate"
+	},
+	{
+		"abr": "driedfruit",
+		"price": 23,
+		"category": "Fruits",
+		"defname": "driedfruit"
+	},
+	{
+		"abr": "electricmillingstone",
+		"price": 276,
+		"category": "Production",
+		"defname": "ElectricGrindStone"
+	},
+	{
+		"abr": "electricoven",
+		"price": 367,
+		"category": "Production",
+		"defname": "ElectricOven"
+	},
+	{
+		"abr": "fig",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawfig"
+	},
+	{
+		"abr": "flour",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Flour"
+	},
+	{
+		"abr": "foodpreptable",
+		"price": 139,
+		"category": "Production",
+		"defname": "Canningstove"
+	},
+	{
+		"abr": "foodshelf2x2",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "VG_FoodShelf"
+	},
+	{
+		"abr": "fruitdrink",
+		"price": 12,
+		"category": "Garden Drinks",
+		"defname": "Fruitdrink"
+	},
+	{
+		"abr": "fruitpieslice",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "BlueberryPie"
+	},
+	{
+		"abr": "fueledfoodpreptable",
+		"price": 139,
+		"category": "Production",
+		"defname": "HandCanningstove"
+	},
+	{
+		"abr": "fueledsweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "FueledCandyTable"
+	},
+	{
+		"abr": "gardencoffee",
+		"price": 13,
+		"category": "Garden Drinks",
+		"defname": "Coffee"
+	},
+	{
+		"abr": "gardentea",
+		"price": 13,
+		"category": "Garden Drinks",
+		"defname": "Cuptea"
+	},
+	{
+		"abr": "gooseberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgooseberry"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgrape"
+	},
+	{
+		"abr": "grilledcheesesandwich",
+		"price": 33,
+		"category": "Simple Meals",
+		"defname": "grilledcheese"
+	},
+	{
+		"abr": "grilledkabob",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Kabob"
+	},
+	{
+		"abr": "grilledpolenta",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "grilledpolenta"
+	},
+	{
+		"abr": "grilledsteak",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Grilledsteak"
+	},
+	{
+		"abr": "grilledvegetables",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Grilledveg"
+	},
+	{
+		"abr": "hardcandy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Hardcandy"
+	},
+	{
+		"abr": "hardtack",
+		"price": 2,
+		"category": "Foods",
+		"defname": "VG_Hardtack"
+	},
+	{
+		"abr": "hivepiece",
+		"price": 250,
+		"category": "Raw resources",
+		"defname": "VG_Hivepiece"
+	},
+	{
+		"abr": "honey",
+		"price": 13,
+		"category": "Ingredients",
+		"defname": "Honey"
+	},
+	{
+		"abr": "honeymead",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "Mead"
+	},
+	{
+		"abr": "hydro-jellyfarm",
+		"price": 767,
+		"category": "Misc",
+		"defname": "VG_JellyFarm"
+	},
+	{
+		"abr": "icecream",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "icecream"
+	},
+	{
+		"abr": "ironwood",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "makiroll",
+		"price": 35,
+		"category": "Fine Meals",
+		"defname": "MakiRoll"
+	},
+	{
+		"abr": "meatpie",
+		"price": 20,
+		"category": "Simple Meals",
+		"defname": "meatpie"
+	},
+	{
+		"abr": "millingstone",
+		"price": 143,
+		"category": "Production",
+		"defname": "GrindStone"
+	},
+	{
+		"abr": "muffin",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "muffin"
+	},
+	{
+		"abr": "mushroom",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "nigiri",
+		"price": 27,
+		"category": "Fine Meals",
+		"defname": "Nigiri"
+	},
+	{
+		"abr": "olive",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawOlive"
+	},
+	{
+		"abr": "orange",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Raworange"
+	},
+	{
+		"abr": "oven",
+		"price": 212,
+		"category": "Production",
+		"defname": "Oven"
+	},
+	{
+		"abr": "peach",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpeach"
+	},
+	{
+		"abr": "pickledvegetable",
+		"price": 22,
+		"category": "Vegetarian",
+		"defname": "PickledVeg"
+	},
+	{
+		"abr": "pineapple",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpineapple"
+	},
+	{
+		"abr": "pizza",
+		"price": 42,
+		"category": "Lavish Meals",
+		"defname": "pizza"
+	},
+	{
+		"abr": "polenta",
+		"price": 23,
+		"category": "Vegetarian",
+		"defname": "RawPolenta"
+	},
+	{
+		"abr": "porridge",
+		"price": 27,
+		"category": "Simple Meals",
+		"defname": "Porridge"
+	},
+	{
+		"abr": "redlentil",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "salt",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "ChunkSalt"
+	},
+	{
+		"abr": "saltedmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SaltedMeat"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "smoothie",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "smoothie"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "stirfry",
+		"price": 42,
+		"category": "Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "sugar",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Sugar"
+	},
+	{
+		"abr": "sugarcane",
+		"price": 3,
+		"category": "Ingredients",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "sweetbun",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "sweetbun"
+	},
+	{
+		"abr": "sweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "CandyTable"
+	},
+	{
+		"abr": "tacos",
+		"price": 25,
+		"category": "Fine Meals",
+		"defname": "Tacos"
+	},
+	{
+		"abr": "taffy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Taffy"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "tofu",
+		"price": 23,
+		"category": "Meat",
+		"defname": "Rawtofu"
+	},
+	{
+		"abr": "veganeggsubstitute",
+		"price": 3,
+		"category": "Eggs (unfert.)",
+		"defname": "VeganEgg"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "wheat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Rawwheat"
+	},
 	],
-	"total": 2030
+	"total": 2155
 }

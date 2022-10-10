@@ -18,6 +18,12 @@
     "version": "9.0.1"
   },
   {
+    "author": "Kippetje2000",
+    "name": "Adjustable Ability Cooldowns",
+    "steamId": "2566715739",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Kikohi and  Trunken",
     "name": "Advanced Parka",
     "steamId": null,
@@ -54,6 +60,12 @@
     "version": null
   },
   {
+    "author": "Suno and Neceros",
+    "name": "Animal Medical Bed",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Power",
     "steamId": "2062943477",
@@ -86,6 +98,12 @@
   {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nephlite",
+    "name": "Better Explosions",
     "steamId": null,
     "version": null
   },
@@ -156,6 +174,12 @@
     "version": null
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ogam",
     "name": "Custom player icon",
     "steamId": null,
@@ -218,6 +242,24 @@
   {
     "author": "Fuglypump",
     "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
     "steamId": null,
     "version": null
   },
@@ -336,12 +378,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
     "author": "Sokyran and  Hush",
     "name": "More Rimefeller Compat",
     "steamId": "2763187069",
@@ -400,6 +436,12 @@
     "name": "Precepts and Memes",
     "steamId": "2582413611",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoners Should Fear Turrets",
+    "steamId": "2602436826",
+    "version": "1.3.1"
   },
   {
     "author": "Neptimus7",
@@ -490,12 +532,6 @@
     "name": "RunAndGun",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki,  Atlas and  Kikohi",
@@ -636,6 +672,18 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kikohi and Oskar Potocki",
     "name": "Vanilla Base Generation Expanded",
     "steamId": null,
@@ -674,6 +722,12 @@
   {
     "author": "Anonymous, legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Pawns Retextured",
     "steamId": null,
     "version": null
   },
@@ -724,6 +778,12 @@
     "name": "Where is my weapon?",
     "steamId": "1539028008",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
   },
   {
     "author": "PrivateGER",
