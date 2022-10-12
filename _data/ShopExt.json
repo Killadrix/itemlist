@@ -7711,6 +7711,44 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0
+    },
+    {
+      "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous"
+        ],
+        "stats": [
+          "+3.0 beauty"
+        ]
+      },
+      "defName": "ATK_DesignerMate",
+      "name": "designerheritage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8026,6 +8064,470 @@
       "enabled": true,
       "name": "xotan",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+32.4F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+95% Incoming damage multiplier",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.",
+      "defName": "AURA_Raen",
+      "enabled": true,
+      "name": "Au Ra",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+32.4F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+95% Incoming damage multiplier",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.",
+      "defName": "AURA_Xaela",
+      "enabled": true,
+      "name": "Au Ra",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Probably not what some men look for when they want a tall muscle mommy to pound them senseless, [NamePending] are quite dissimilar to humans. More often than not, most are disappointed by their lack of “typical feminine qualities” like breasts and freaked out by the female's ability to unhinge their jaws to devour their own and each other's fertilized eggs. If one seeks an early death: touch a stranger's horns and receive a greeting head-first.\n\nA race of humanoid aliens descended from a line of avian and reptilian ancestry, their biology could be considered barely compatible with baseline humans. [NamePending] hail from a matriarchal society from the planet Erinia, with the females being tall, muscular and domineering over the smaller, frail and meek males. Females are typically on the search for multiple male mates to ravage during rutting season and males are almost always on the mend.",
+      "defName": "ERN_Azaphrae",
+      "enabled": true,
+      "name": "Azaphrae",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+5% Melee avoid chance",
+          "+0.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Miqo'te are a race of xenohumans first recorded by the Ordo Historia on the world of Eorzea, although their origins are shrouded in mystery, but certain biological adaptations, particularly the presence of two major ethnicities and cultural groupings defined by a diurnal or nocturnal preference suggest that yet another world may have been their home. All Miqo'te have feline ears and tails, a sharp sense of smell and powerful leg muscles making them natural hunters. A quirk resulting from their gene-engineered origins means that male Miqo’te are exceedingly rare, representing about one-tenth of the population.",
+      "defName": "MQT_Miqote",
+      "enabled": true,
+      "name": "miqo'te",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+19.8F Minimum comfortable temperature",
+          "+55.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+14.0% Armor - Blunt",
+          "+14.0% Armor - Sharp",
+          "+24.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Basically what you get when you take what would be an adorable alien and thrust them into a cold, hard and unforgiving world that would be hunted for their fur, the Sephyr are quite similar to humans in that they never asked for this. A reptilian-feline hybrid originating from a desert homeworld shattered in a natural cataclysm, these mono-gendered humanoids are covered in hard plates of minerals and long fur that is a vital part of inter-species communication and moisture accumulation. And yes, it is considered extremely rude to touch their fur and can lead to the horrifying discovery that they are extreme omnivores that would gladly experience a change in diet.\n\nThey have slightly better temperature range than humans, as well as being highly resistant to fire, however they can be quite prone to depression due to their eidetic memories constantly reminding them of what they have lost. Their natural plating makes for decent protection against foreign threats and can be reinforced in times of stress, which used to simply be dealing with harsh weather but can also be used against those foolish enough to think of them as easy prey.",
+      "defName": "ERN_Sephyr",
+      "enabled": true,
+      "name": "Sephyr",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Viera are a race of xenohumans with biology that is largely comparable to regular humans with a few key differences, besides the obvious long, furred ears located much higher on the cranium. The females of this race outnumber the men by roughly 4 to 1 and they are physically superior with both a taller and more athletic physiology, as well as having a longer lifespan at around 150 years.\n\nWhile on their homeworld they can live for multiple centuries, the higher presence of radiation in this universe adversely affects their genetic data. They do, however, have exceptional performance in firearm operation due to both their improved senses and depth perception. As such, many females make a profitable living as mercenary snipers, making them a truly fearsome presence on whichever planet they now call home.",
+      "defName": "ERN_Viera",
+      "enabled": true,
+      "name": "Viera",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+3 Honor value",
+          "+80 Carrying capacity",
+          "+90% Research speed",
+          "+90% Mining speed",
+          "+110.00% Social impact",
+          "+90% Plant work speed",
+          "+90% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Shaggy giants from an arboreal world, the tall and commanding Wookieee species is an impressive sight to even the most jaded spacer. \n        Despite their fearsome and savage countenance, Wookieees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookieee society. \n        When peaceful, Wookieees are tender and gentle. \n        Their tempers, however, are short; when angered, Wookieees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Togrutas were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails which were similar to those of Twi'leks. Unlike Twi'leks, a Togurta's lekku ran parallel to the head as opposed to behind, making it appear as though they were wearing a headdress. Togruta were also distinguished by montrals, large hollow horn-like projections from the top of their heads, that gave the species a form of passive echolocation. In order to protect themselves from dangerous predators, and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders.",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": true,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Ewoks are sentient furred bipeds native to the moon of Endor.",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": true,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors.\n      Their most distinctive feature is a pair of prehensile tentacles that grow from the base of their skulls.\n      These Lekku are vital to the health of the Twi'lek, which is unfortunate because they prevent the Twi'lek from wearing most forms of head protection.\n      Some have theorized that this obvious weakness is why the Twi'lek people have been so heavily targetted by slavers.",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic avian, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Avianmorph",
+      "enabled": true,
+      "name": "avianmorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic bovine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Bovinemorph",
+      "enabled": true,
+      "name": "bovinemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic canine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Caninemorph",
+      "enabled": true,
+      "name": "caninemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic cervine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Cervinemorph",
+      "enabled": true,
+      "name": "cervinemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1950 Market value",
+          "+4.60 Move speed",
+          "+36.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic dragon, but is otherwise identical to the average human. They are exceedingly rare due to the extensive and expensive modifications made to their physiology.",
+      "defName": "ATK_Dragomorph",
+      "enabled": true,
+      "name": "dragomorph",
+      "price": 3250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic feline, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Felinemorph",
+      "enabled": true,
+      "name": "felinemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+16.2F Minimum comfortable temperature",
+          "+61.2F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic hyena, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Gnollmorph",
+      "enabled": true,
+      "name": "gnollmorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+16.2F Minimum comfortable temperature",
+          "+61.2F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic lapine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Lagomorph",
+      "enabled": true,
+      "name": "lagomorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Vulpinemorph",
+      "enabled": true,
+      "name": "Vulpinemorph",
+      "price": 3000
     }
   ]
 }

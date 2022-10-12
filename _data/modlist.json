@@ -132,6 +132,24 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "4YDRA",
+    "name": "Arsenal of Ideology",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "4YDRA",
+    "name": "Arsenal of Revolution",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "4YDRA",
+    "name": "Arsenal of Revolution - Style Submod",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dallt",
     "name": "Augmented Vanilla - Injectors",
     "steamId": null,
@@ -159,6 +177,48 @@
     "author": "Kikohi",
     "name": "Better ground-penetrating scanner",
     "steamId": "2809972387",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Oasis",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.3.1.2"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
     "version": "1.0.0.0"
   },
   {
@@ -318,16 +378,52 @@
     "version": null
   },
   {
-    "author": "Kikohi and  Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "2.0.1.0"
-  },
-  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.3.0.4"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Au Ra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Azaphrae",
+    "steamId": "2835600618",
+    "version": "1.0.8228.25055"
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Miqo'te",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Sephyr",
+    "steamId": "2853356739",
+    "version": "1.0.8268.31188"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Viera",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and  Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "2.0.1.0"
   },
   {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
@@ -430,12 +526,6 @@
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
     "version": "2.7.2"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -726,24 +816,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
     "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
     "name": "Reinforced Mechanoids: Tyrikan-Line",
     "steamId": "2798710610",
@@ -966,10 +1038,28 @@
     "version": null
   },
   {
+    "author": "Foggy Morning",
+    "name": "Star Wars Races",
+    "steamId": "1662194938",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "民火",
     "name": "Statue of Colonist",
     "steamId": "1539031321",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
   },
   {
     "author": "Mehni",
@@ -1066,6 +1156,12 @@
     "name": "Utility Columns",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Glitterworld Uprising",
+    "steamId": "2835548917",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
@@ -1212,24 +1308,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and  Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17 and  Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
@@ -1314,6 +1392,12 @@
     "version": null
   },
   {
+    "author": "Metalocif",
+    "name": "Warcasket Persona Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FluffyTowels",
     "name": "Warcaskets can haul!",
     "steamId": null,
@@ -1347,6 +1431,12 @@
     "author": "民火",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "name": "Xenohumans - Anthromorphs",
+    "steamId": "2349467636",
     "version": "1.0.0.0"
   },
   {
