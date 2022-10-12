@@ -8109,7 +8109,7 @@
       },
       "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.",
       "defName": "AURA_Xaela",
-      "enabled": true,
+      "enabled": false,
       "name": "Au Ra",
       "price": 2917
     },
