@@ -61,6 +61,21 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -79,6 +94,11 @@
 		"abr": "rescueme",
 		"price": 1200,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -131,5 +151,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 26
+	"total": 30
 }
