@@ -4882,7 +4882,7 @@
       },
       "defName": "FT_AnimalFriend",
       "name": "animalfriend",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 1000,
@@ -5792,7 +5792,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 5333
+      "price": 3000
     },
     {
       "data": {
@@ -5831,7 +5831,7 @@
       "defName": "Alien_RedMoyo",
       "enabled": true,
       "name": "Red Moyo",
-      "price": 5333
+      "price": 3000
     }
   ]
 }

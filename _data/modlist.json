@@ -30,6 +30,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.3.7862.41411"
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
@@ -230,6 +242,36 @@
   {
     "author": "Zaljerem",
     "name": "EVA Core - Redux (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Extras - Angel Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory 2.0",
+    "steamId": "2552628608",
+    "version": "2.5.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Extras - Signature Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Angel Apparel",
     "steamId": null,
     "version": null
   },
@@ -474,6 +516,12 @@
     "version": "1.3.2"
   },
   {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.7.2"
+  },
+  {
     "author": "Neronix17",
     "name": "Psysight",
     "steamId": "2842840009",
@@ -566,6 +614,12 @@
   {
     "author": "Atmey",
     "name": "SOS2 AT Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "SOS2 EVA auto patcher",
     "steamId": null,
     "version": null
   },
@@ -798,12 +852,6 @@
     "version": null
   },
   {
-    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "legodude17 and  Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
@@ -928,6 +976,12 @@
     "name": "[JAIL] Prison Walls",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kiame Vivacity",
