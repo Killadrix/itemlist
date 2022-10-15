@@ -31,11 +31,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -49,11 +44,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
@@ -88,11 +78,6 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -151,5 +136,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 30
+	"total": 27
 }
